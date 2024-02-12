@@ -12,7 +12,7 @@
 .search {
   display: flex;
   position: relative;
-  background: #888;
+  background: #818181;
 }
 .search_input {
   width: 350px;
@@ -27,6 +27,9 @@
 }
 .search__button {
   position: absolute;
+  width: 100px;
+  height: 100px;
+  background: #cf0000;
 }
 
 * {
