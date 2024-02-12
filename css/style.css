@@ -1,3 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Mulish", sans-serif;
+}
+
 .header {
   background: #fff;
 }
@@ -30,12 +38,4 @@
   width: 100px;
   height: 100px;
   background: #cf0000;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-body {
-  font-family: "Mulish", sans-serif;
 }/*# sourceMappingURL=style.css.map */
