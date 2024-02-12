@@ -1,0 +1,38 @@
+.header {
+  background: #fff;
+}
+.header-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.search {
+  display: flex;
+  position: relative;
+  background: #888;
+}
+.search_input {
+  width: 350px;
+  height: 50px;
+  padding-left: 23px;
+  background-color: #F5FAFE;
+  border-radius: 6px;
+  border: none;
+  font-size: 12px;
+  line-height: 15px;
+  color: #333333;
+}
+.search__button {
+  position: absolute;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Mulish", sans-serif;
+}/*# sourceMappingURL=style.css.map */
