@@ -26,12 +26,12 @@ img {
   padding-top: 40px;
   padding-bottom: 40px;
 }
+.navbar-top__menu-button {
+  display: none;
+}
 .navbar__search {
   margin-right: auto;
   margin-left: 9.5%;
-}
-.navbar .menu-button {
-  display: none;
 }
 .navbar-buttom {
   background-color: #0A223D;
@@ -442,6 +442,9 @@ template {
   .navbar-menu__link {
     font-size: 12px;
     line-height: 15px;
+  }
+  .search__input {
+    width: 340px;
   }
 }
 @media (max-width: 768px) {
